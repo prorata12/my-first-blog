@@ -1,3 +1,15 @@
+superuser
+pr
+123123
+
+github
+	pr12
+	r12
+pythonanywhere
+	username : pr
+
+/////////////////////////
+
 http://127.0.0.1:8000/
 myvenve\Scripts\activate
 python manage.py runserver
